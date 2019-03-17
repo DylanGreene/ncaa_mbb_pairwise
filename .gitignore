@@ -1,0 +1,4 @@
+# ignore csv datafiles
+*.csv
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
